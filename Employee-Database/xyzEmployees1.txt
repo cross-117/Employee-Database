@@ -1,0 +1,17 @@
+manager
+1
+Ross
+Bob
+3000
+sales
+2
+Elon
+Musk
+5
+2000
+hourly
+3
+Barrack
+Obama
+9
+33
